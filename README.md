@@ -37,7 +37,14 @@ After cloning the github, you will want to do the following to get the code runn
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
 
+https://github.com/Abr-204/scm
+
 ## Video Walkthrough
 
 
-https://www.loom.com/share/09fa5148b7d9494f96048e1d2512fa76
+https://www.loom.com/share/bf667201a0a74c1b8e97c98c0b957ef1?sid=2142484c-046c-4843-b3b3-c089c19d8ae3
+
+## Authors
+
+Abhay Rana
+[@Abhay](https://www.linkedin.com/in/abhay-rana-0a25a6227/)
