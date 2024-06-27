@@ -41,8 +41,7 @@ https://github.com/Abr-204/scm
 
 ## Video Walkthrough
 
-
-https://www.loom.com/share/bf667201a0a74c1b8e97c98c0b957ef1?sid=2142484c-046c-4843-b3b3-c089c19d8ae3
+https://www.loom.com/share/f0967d05e27a44d69ea19229523c9216?sid=e651d900-7926-4de1-9d57-2eea27d3356c
 
 ## Authors
 
